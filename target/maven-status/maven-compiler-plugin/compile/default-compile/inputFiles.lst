@@ -1,3 +1,5 @@
 /workspaces/HyperMobs/src/main/java/com/hypertron/HyperMobs.java
 /workspaces/HyperMobs/src/main/java/com/hypertron/mobs/CustomMob.java
-/workspaces/HyperMobs/src/main/java/com/hypertron/commands/CreateMobCommand.java
+/workspaces/HyperMobs/src/main/java/com/hypertron/listeners/MobGUIClickListener.java
+/workspaces/HyperMobs/src/main/java/com/hypertron/mobs/MobManager.java
+/workspaces/HyperMobs/src/main/java/com/hypertron/commands/HyperMobsCommand.java

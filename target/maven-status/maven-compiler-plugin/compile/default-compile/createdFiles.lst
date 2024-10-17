@@ -1,3 +1,5 @@
-com/hypertron/commands/CreateMobCommand.class
+com/hypertron/listeners/MobGUIClickListener.class
+com/hypertron/commands/HyperMobsCommand.class
 com/hypertron/HyperMobs.class
+com/hypertron/mobs/MobManager.class
 com/hypertron/mobs/CustomMob.class

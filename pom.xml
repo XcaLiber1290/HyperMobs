@@ -4,12 +4,12 @@
 
   <groupId>com.hypertron</groupId>
   <artifactId>HyperMobs</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.2-SNAPSHOT</version>
 
   <properties>
     <maven.compiler.source>17</maven.compiler.source>
     <maven.compiler.target>17</maven.compiler.target>
-    <minecraftversion>1.20.4</minecraftversion>
+    <minecraftversion>1.21.1</minecraftversion>
   </properties>
 
 

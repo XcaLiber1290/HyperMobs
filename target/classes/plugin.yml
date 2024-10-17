@@ -1,12 +1,9 @@
 name: HyperMobs
-version: 1.0
+version: 1.2
 main: com.hypertron.HyperMobs
 api-version: 1.20
 commands:
-  hypermob:
-    description: Manage HyperMobs
-    usage: /<command> spawn <mob_name> <health> <speed> <attack> <defense>
-    subcommands:
-      spawn:
-        description: Spawn a custom mob
-        usage: /<command> spawn <mob_name> <health> <speed> <attack> <defense>
+  hypermobs:
+    aliases: [hm]
+    description: Manages custom mobs.
+    usage: /hypermobs <list|remove|edit|despawnall|freeze|spawn>
